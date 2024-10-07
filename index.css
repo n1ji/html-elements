@@ -5,3 +5,7 @@ body {
 div.photo {
     padding: 20%;
 }
+
+span {
+    background-color: yellow;
+}
