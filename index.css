@@ -3,9 +3,9 @@ body {
 }
 
 div.photo {
-    padding: 10%;
+    padding: 5%;
 }
 
 span {
-    background-color: yellow;
+    background-color: darkgoldenrod;
 }
